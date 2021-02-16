@@ -1,2 +1,2 @@
 # GUI-ChickenShooter-Game
-Game for GUI lectures
+Game for GUI lectures using MVC
